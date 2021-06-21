@@ -8,7 +8,7 @@
 ## Considere os seguintes critérios fictícios:
 
 
-# Você está liberado(a) para utilizar a tecnologia que domina atualmente e de forma criativa demonstrar seu conhecimento, para desenvolver um fluxo que:
+### Você está liberado(a) para utilizar a tecnologia que domina atualmente e de forma criativa demonstrar seu conhecimento, para desenvolver um fluxo que:
 
 - Liste as ofertas de crédito de acordo com o descritivo técnico;
 - Detalhe a oferta do usuário ao momento de escolha;
