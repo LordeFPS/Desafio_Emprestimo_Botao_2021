@@ -15,7 +15,7 @@
 - Apresente a revisão das informações;
 - E permita-o realizar a contratação;
 
-# Caso você seja uma pessoa que manda bem em front, se sinta livre em demonstrar seu conhecimento com uma jornada bonitona, ou se você manda bem em backend, fique à vontade para criar serviços para responder à esta jornada.
+#### Caso você seja uma pessoa que manda bem em front, se sinta livre em demonstrar seu conhecimento com uma jornada bonitona, ou se você manda bem em backend, fique à vontade para criar serviços para responder à esta jornada.
 
  
 ## Critérios de Avaliação:
