@@ -14,4 +14,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Instalar a versão mais recente de Python [AQUI](https://www.python.org/downloads/)
 * Baixar a extensão do Python no VSCode 
 * Preferência usar o VSCode para rodar este código
-* Para executar o projeto faça um git clone do projeto e execute o arquivo -> [RUN](Desafio_Emprestimo_Botao_2021/emprestimo/run.py).
+* Para executar o projeto faça um git clone do projeto e execute o arquivo -> [RUN](emprestimo/run.py).
