@@ -1,15 +1,17 @@
-from typing import cast
-import usuario as usr
-import dict_emprestimo as dtemp
-import menu as im_menu
-import os
-import time
+# TODO: importa usuario criando neste projeto
+import usuario as usr 
 
-def timer():
-    time.sleep(2) # coloca um temporizador no sistema
+# TODO: importa os dicinários criados neste projeto
+import dict_emprestimo as dtemp 
 
-def tlimpa():
-    os.system('cls' if os.name == 'nt' else 'clear') # limpa o terminal
+# TODO: importa o menu criado neste projeto
+import menu as im_menu 
+
+# TODO: esta biblioteca serve para limpar o terminal atraves de linha de comando
+import os 
+
+# TODO: esta biblioteca serve para criar um timer no terminal
+import time 
 
 user1 = usr.user.user_1()
 user2 = usr.user.user_2()
@@ -21,6 +23,13 @@ empr3 = dtemp.total_emprestimo.emprestimo_3()
 empr4 = dtemp.total_emprestimo.emprestimo_4()
 
 
+# TODO: esta função cria um temporizador no terminal
+def timer():
+    time.sleep(2) # coloca um temporizador no sistema
+
+# TODO: esta função limpar o terminal
+def tlimpa():
+    os.system('cls' if os.name == 'nt' else 'clear') # limpa o terminal
 
 # TODO: esta função verifica o saldo dos usuários e mostras as
 #       oções de emprestimo certas para cada usuário
@@ -185,5 +194,6 @@ def valida_opcao():
             print("Obrigado por usar o sistema.")
             break
 
+# TODO: esta função serve para executar o projeto no arquivo run.py
 def projeto():
     valida_opcao()

@@ -1,6 +1,4 @@
-# TODO:Essa classe serve como exemplo uma conexao com o DB
-#      e cadastro de clientes
-
+# TODO: essa classe server para criar usuário como "pré-set"
 class user():
     def user_1():
         dict_user1 = {

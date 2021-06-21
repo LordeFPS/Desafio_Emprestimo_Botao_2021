@@ -1,6 +1,4 @@
 # TODO: Esta classe serve como opções cadastro de emprestimos
-#       e com possivel conexao com o DB
-
 class total_emprestimo():
     def emprestimo_1():
         dict_1 = {

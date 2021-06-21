@@ -1,8 +1,10 @@
-# TODO: esta classe gera os opções de menus necessárias
-
+# TODO: importa usuario criando neste projeto
 import usuario as usr
+
+# TODO: importa os dicinários criados neste projeto
 import dict_emprestimo as dtemp 
 
+# TODO: esta classe gera os opções de menus necessárias
 class menu():
     def menu_emprestimo1():
         print(f'''
