@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/lordefps/Desafio_Emprestimo_Botao_2021)
 
 ### Sobre o Projeto
-- Requisitos desafio do acesse -> [DESAFIO](desafio.md)
+- Requisitos do desafio acesse -> [DESAFIO](desafio.md)
 
 ## 💻 Pré-requisitos
 
